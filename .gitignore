@@ -1,0 +1,9 @@
+# .NET build output
+**/bin/
+**/obj/
+**/Logs/
+
+# Per-machine settings; commit only appsettings.example.json
+**/appsettings.json
+**/appsettings.Development.json
+**/.vs/
